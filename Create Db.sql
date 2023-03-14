@@ -1,0 +1,2 @@
+create Database E_commmerce_Database;
+use E_commmerce_Database;
